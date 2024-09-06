@@ -1,0 +1,8 @@
+pandas==2.2.2
+openpyxl==3.1.5
+selenium==4.31.1
+webdriver-manager==4.0.2
+
+# pip install -r requirements.txt
+# La commande pip install -r requirements.txt est utilisée pour installer toutes les bibliothèques Python listées dans un fichier nommé requirements.txt.
+
